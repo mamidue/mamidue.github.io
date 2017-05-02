@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Enfermera y asesora de lactancia en Madrid
 
-### More Information
+### Contacto
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[mamiduemadrid@gmail.com](mailto:mamiduemadrid@gmail.com)
