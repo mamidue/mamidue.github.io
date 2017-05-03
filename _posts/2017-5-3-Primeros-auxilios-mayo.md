@@ -3,7 +3,7 @@ layout: post
 title: Taller de primeros auxilios en mayo
 ---
 
-Qué mejor forma de estrenar esta página de Facebook que con un Taller de primeros auxilios Pediatricos!! Será el día 19 de mayo a las 17h en El columpio de Claudia!!
+Qué mejor forma de estrenar este blog que con un Taller de primeros auxilios Pediatricos!! Será el día 19 de mayo a las 17h en El columpio de Claudia!!
 
 ![taller de primeros auxilios]({{ site.baseurl }}/images/2017/primeros-auxilios-mayo.jpg)
 
