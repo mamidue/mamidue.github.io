@@ -3,6 +3,13 @@ layout: default
 ---
 
 <div class="posts">
+  
+  <form action="/search.html" method="get">
+		<label for="search_box">Buscar</label>
+		<input type="text" id="search_box" name="query">
+		<input type="submit" value="search">
+	</form>
+
   {% for post in site.posts %}
     <article class="post">
 
