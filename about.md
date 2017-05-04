@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sobre mí
+title: Carmen Blanco Aguilera
 permalink: /about/
 ---
 
-Enfermera y asesora de lactancia en Madrid
+Enfermera, asesora de lactancia, preparándome para el IBCLC y mamá de Paula. La maternidad cambió mi vida y la forma de ver mi profesión.
 
 ### Contacto
 

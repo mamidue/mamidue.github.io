@@ -27,9 +27,11 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/">Inicio</a>
+            <a href="{{ site.baseurl }}/search/?query=lactancia">Lactancia</a>
+            <a href="{{ site.baseurl }}/search/?query=primeros+auxilios">Primeros auxilios</a>
             <a href="{{ site.baseurl }}/about">Sobre mí</a>
-            <form action="/search" method="get">
+            <form class="inline" action="/search" method="get">
           		<input type="text" id="search_box" name="query">
           		<input type="submit" value="Buscar">
           	</form>
