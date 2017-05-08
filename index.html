@@ -16,7 +16,6 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">...</a>
     </article>
   {% endfor %}
-</div>
 
 <!-- Pagination links -->
 {% if paginator.previous_page or paginator.next_page %}
@@ -34,3 +33,14 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
+
+</div>
+
+<div class="aside">
+  <div class="latest-posts">
+    <h3>Últimos posts</h3>
+    <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[0].url }}">{{ paginator.posts[0].title }}</a></p>
+    <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[1].url }}">{{ paginator.posts[1].title }}</a></p>
+    <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[2].url }}">{{ paginator.posts[2].title }}</a></p>
+</div>
+</div>
