@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Taller de primeros auxilios en mayo
-tags:
-- auxilios
-- urgencias
-- taller
+category: Primeros auxilios
+tags: [taller, auxilios, mayo, columpio]
 ---
 
 Qué mejor forma de estrenar este blog que con un Taller de primeros auxilios Pediatricos!! Será el día 19 de mayo a las 17h en El columpio de Claudia!!

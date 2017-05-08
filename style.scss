@@ -154,7 +154,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -256,6 +256,7 @@ nav {
 .posts {
   display: inline-block;
   width: 66%;
+  padding: 0 10px;
   @include mobile {
     width: 100%;
   }
@@ -278,6 +279,28 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+
+  .category {
+    display: inline-block;
+    width: 66%;
+    color: $rose;
+    margin: 0;
+  }
+
+  .tags {
+    display: inline-block;
+    width: 33%;
+    @include tablet {
+      max-width: 520px;
+    }
+    @include mobile {
+      width: 100%;
+    }
+    a {
+      color: $rose;
+      margin: 0 10px;
+    }
   }
 }
 
@@ -306,9 +329,13 @@ footer {
   display: inline-block;
   width: 33%;
   vertical-align: top;
+  .aside-element{
+    background-color: $lightRose;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
   @include mobile {
     width: 100%;
-    display: none;
   }
 }
 

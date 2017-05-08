@@ -37,10 +37,14 @@ layout: default
 </div>
 
 <div class="aside">
-  <div class="latest-posts">
+  <div class="aside-element">
     <h3>Últimos posts</h3>
     <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[0].url }}">{{ paginator.posts[0].title }}</a></p>
     <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[1].url }}">{{ paginator.posts[1].title }}</a></p>
     <p class="post-aside"><a href="{{ site.baseurl }}{{ paginator.posts[2].url }}">{{ paginator.posts[2].title }}</a></p>
-</div>
+  </div>
+  <div class="aside-element">
+      <h3>{{ site.complete-name }}</h3>
+      <p>{{ site.about-info }}</p>
+  </div>
 </div>

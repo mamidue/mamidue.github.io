@@ -5,11 +5,15 @@
 # Name of your site (displayed in the header)
 name: MamiDue
 
+complete-name: Carmen Blanco Aguilera
+
+about-info: Enfermera, asesora de lactancia, preparándome para el IBCLC y mamá de Paula. La maternidad cambió mi vida y la forma de ver mi profesión.
+
 # Short bio or description (displayed in the header)
 description: Enfermera y asesora de lactancia en Madrid
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://mamidue.github.io/images/avatar.jpg
+avatar: /images/avatar.jpg
 
 #
 # Flags below are optional
@@ -51,7 +55,7 @@ baseurl: ""
 
 paginate: 5
 
-paginate_path: "/page:num/"
+paginate_path: "/page-:num/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
