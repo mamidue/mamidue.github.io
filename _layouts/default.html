@@ -13,6 +13,21 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <script src="js/firebase.js"></script>
+    
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyBTAKrfCUmZyCaCI8cIfi9QPMRu04YQeIU",
+        authDomain: "mamidue-9f40a.firebaseapp.com",
+        databaseURL: "https://mamidue-9f40a.firebaseio.com",
+        projectId: "mamidue-9f40a",
+        storageBucket: "mamidue-9f40a.appspot.com",
+        messagingSenderId: "977967804047"
+      };
+      firebase.initializeApp(config);
+    </script>
   </head>
 
   <body>
