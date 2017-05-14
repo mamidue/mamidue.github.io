@@ -42,6 +42,7 @@
       this.field('title', { boost: 10 });
       this.field('author');
       this.field('category');
+      this.field('tags');
       this.field('content');
     });
 
@@ -51,6 +52,7 @@
         'title': window.store[key].title,
         'author': window.store[key].author,
         'category': window.store[key].category,
+        'tags': window.store[key].tags,
         'content': window.store[key].content
       });
 
