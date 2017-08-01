@@ -5,7 +5,7 @@ category: Lactancia
 tags: [lactancia, SMLM2017, medicamentos]
 ---
 
-Empezamos la Semana Mundial de la Lactancia Materna **#SMLM2017**. Este año aprovecharé que estoy inmersa en la preparación de mi **IBCLC** para escribir un post al día sobre lactancia.
+Empezamos la Semana Mundial de la Lactancia Materna [**#SMLM2017**](https://www.instagram.com/explore/tags/smlm2017/). Este año aprovecharé que estoy inmersa en la preparación de mi **IBCLC** para escribir un post al día sobre lactancia.
 
 Una de las cosas que más nos preocupa a las madres lactantes es la toma de medicamentos.  Soportamos dolores de muelas, dolores de cabeza y muchos más por miedo a que “esa pastilla” vaya a perjudicarle a nuestro bebé.
 
