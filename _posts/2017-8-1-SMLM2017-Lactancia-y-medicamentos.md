@@ -3,6 +3,7 @@ layout: post
 title: Semana mundial de la lactancia materna. Lactancia y medicamentos.
 category: Lactancia
 tags: [lactancia, SMLM2017, medicamentos]
+image: /images/2017/smlm-lactancia-materna.jpg
 ---
 
 Empezamos la Semana Mundial de la Lactancia Materna [**#SMLM2017**](https://www.instagram.com/explore/tags/smlm2017/). Este año aprovecharé que estoy inmersa en la preparación de mi **IBCLC** para escribir un post al día sobre lactancia.

@@ -356,6 +356,26 @@ footer {
   }
 }
 
+.share-page {
+  display: inline-block;
+  background: $rose;
+  color: $lightRose;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 8px;
+  font-size: 14px;
+
+  a {
+    font-weight: 700;
+    color: $white;
+    margin-left: 10px;
+
+    &:hover {
+      border-bottom: 1px dashed #fff;
+    }
+  }
+}
+
 .v-a-50 {
   vertical-align: 50%;
 }
