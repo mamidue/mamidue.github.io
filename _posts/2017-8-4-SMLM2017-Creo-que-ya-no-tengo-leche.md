@@ -28,4 +28,4 @@ A los 4 meses y a los 8 meses suele haber unas **falsas crisis de crecimiento**.
 
 Esta situación suele durar de 2 a 7 días aproximadamente, una vez que pasa la crisis todo vuelve a la normalidad. Se recomienda para esta etapa amamantar con frecuencia, sin esperar a que el niño llore, con una técnica de amamantamiento correcta, reducir los estímulos externos todo lo que se pueda, intentar dar el pecho con poca luz y en silencio puede ayudar bastante. Y sobretodo, lo más importante es la paciencia, mucha paciencia mientras dure la crisis de crecimiento.
 
-![lactancia ininterrumpida]({{ site.baseurl }}/images/2017/crisis-lactancia.jpg)
+![lactancia ininterrumpida]({{ site.baseurl }}/images/2017/crisis-de-lactancia.jpg)
