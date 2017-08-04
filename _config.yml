@@ -51,6 +51,8 @@ url: https://mamidue.github.io
 # Twitter config
 twitter_username: mamiduemadrid
 
+future: false
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
