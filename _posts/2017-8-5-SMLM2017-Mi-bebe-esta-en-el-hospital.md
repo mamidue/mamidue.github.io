@@ -2,7 +2,7 @@
 layout: post
 title: Mi bebé está en el hospital.
 category: Lactancia
-tags: [lactancia, SMLM2017, bebe, crisis, hospital]
+tags: [SMLM2017, bebe, crisis, hospital]
 image: /images/2017/pie-prematuro.jpg
 ---
 
