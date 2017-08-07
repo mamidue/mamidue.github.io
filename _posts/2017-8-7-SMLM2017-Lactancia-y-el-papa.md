@@ -28,6 +28,6 @@ Poco a poco, conforme el bebé crece, el apego con el papá va aumentando y la n
 
 Después de 26 meses de lactancia materna, puedo asegurar que sin **nuestro papi** nada hubiera sido igual. Él ha sido siempre un pilar muy importante en nuestra lactancia y por tanto, parte importante del éxito de una lactancia que al principio no prometía mucho.
 
-![bebé pirata]({{ site.baseurl }}/images/2017/familia-lactante.jpg)
+![familia lactando]({{ site.baseurl }}/images/2017/familia-lactando.jpg)
 
 Fotografía: Isabel Sancho
