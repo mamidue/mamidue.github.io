@@ -2,7 +2,7 @@
 layout: post
 title: Los primeros minutos de vida.
 category: Lactancia
-tags: [lactancia, SMLM2017, primeros, minutos, vida]
+tags: [SMLM2017, primeros, minutos, vida]
 image: /images/2017/primeros-minutos-de-vida.jpg
 ---
 

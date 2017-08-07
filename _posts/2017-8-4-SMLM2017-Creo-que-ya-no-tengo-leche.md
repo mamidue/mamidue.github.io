@@ -2,7 +2,7 @@
 layout: post
 title: Creo que ya no tengo leche.
 category: Lactancia
-tags: [lactancia, SMLM2017, leche, crisis, crecimiento, separación]
+tags: [SMLM2017, leche, crisis, crecimiento, separación]
 image: /images/2017/crisis-lactancia.jpg
 ---
 
