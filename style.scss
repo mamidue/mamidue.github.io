@@ -37,13 +37,16 @@ body {
     @include mobile {
       display: inline-block;
       float: right;
+      background: none;
+      border: none;
+      min-height: 42px;
     }
     .menu-icon {
       width: 32px;
       height: 32px;
     }
     .open {
-      fill: $rose;
+      fill: $darkRose;
     }
   }
 
