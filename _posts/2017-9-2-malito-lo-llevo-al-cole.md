@@ -16,7 +16,6 @@ La Asociación Española de Pediatría de Atención Primaria (AEPap) apela al se
 Cuando los niños están juntos, existe la posibilidad de que se contagien las enfermedades. Por ejemplo, los bebés y los niños pequeños que se limpian la nariz con las manos o frotan sus ojos y luego cogen juguetes o tocan a otros niños. Estos niños a su vez, se tocan la nariz y frotan sus ojos y así es como el virus viaja de la nariz a los ojos o de un niño a otro por medio de las manos o juguetes de el siguiente niño que los toca. Los niños se enferman mucho en los primeros años de vida mientras que sus cuerpos producen inmunidad contra las infecciones.
 
 En el caso de muchas infecciones, un niño puede contagiar a otros en los días previos a presentar síntomas. Por eso es muy importante lavar las manos con frecuencia, tanto las nuestras como las de nuestro hijo. Realmente nunca sabemos si nosotros, nuestros hijos u otro niño está transmitiendo un virus o bacteria a través de las manos.
-
 Mi recomendación es que los niños no asistan al cole cuando la enfermedad les impide seguir cómodamente las actividades del centro; cuando necesiten más atención de la que el personal del centro puede proporcionar y cuando el niño contribuye a la propagación de esa enfermedad, sobre todo en un entorno de riesgo.
 
 Los criterios que nos pueden ayudar a la hora de decidir si llevar a nuestro hijo/a al cole son los siguientes:
