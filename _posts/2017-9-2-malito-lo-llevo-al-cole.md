@@ -3,7 +3,7 @@ layout: post
 title: Y si esta malito, ¿lo llevo al cole?
 category: Salud
 tags: [enfermo, cole]
-image: /images/2017/bebe-pirata.jpg
+image: /images/2017/paula-cole.jpg
 ---
 
 Coincidiendo con el inicio del curso, os dejo este post. Es un resumen de las recomendaciones de las que hablé en las Jornadas de bienvenida en [El columpio de Claudia](http://www.elcolumpiodeclaudia.com), el cole al que va Paula desde que tenía 10 meses.
