@@ -6,7 +6,7 @@ permalink: /about/
 
 <img class="site-avatar" src="{{ site.avatar }}" />
 
-Me llamo Carmen Blanco, soy Enfermera, asesora de lactancia materna e IBCLC.
+Me llamo Carmen Blanco, soy Enfermera, Asesora de lactancia materna e IBCLC.
 
 A lo largo de mi trayectoria profesional, he tenido la oportunidad de formarme en urgencias y emergencias, cuidados críticos, neonatología y otras áreas específicas de Pediatría.
 
