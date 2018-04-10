@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="consultation">
+    {% for consultation in site.consultations %}
+    <article class="consultation">
+
+      <h1><a href="{{ site.baseurl }}{{ consultation.url }}">{{ consultation.title }}</a></h1>
+
+      <div class="entry">
+        {{ consultation.excerpt }}
+      </div>
+      <h2>{{ consultation.price }}€</h2>
+
+      <a href="{{ site.baseurl }}{{ consultation.url }}" class="read-more">...</a>
+    </article>
+  {% endfor %}
+</div>

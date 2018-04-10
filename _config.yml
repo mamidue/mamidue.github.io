@@ -100,3 +100,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+#Breastfeeding consultations
+collections:
+  - consultations
