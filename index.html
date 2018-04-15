@@ -21,15 +21,10 @@ layout: default
 {% if paginator.previous_page or paginator.next_page %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Atrás</a>
-  {% else %}
-    <span class="previous">Atrás</span>
+    <a href="{{ paginator.previous_page_path }}" class="previous">Más recientes</a>
   {% endif %}
-  <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Siguiente</a>
-  {% else %}
-    <span class="next ">Siguiente</span>
+    <a href="{{ paginator.next_page_path }}" class="next">Más antiguos</a>
   {% endif %}
 </div>
 {% endif %}
