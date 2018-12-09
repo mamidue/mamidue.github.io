@@ -22,8 +22,8 @@ Quiero ayudar a las familias (mamás, papás, abuelas, abuelos, titos, titas…)
 
 ### Contacto
 
-<p><a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i> <span class="v-a-50">mamiduemadrid@gmail.com</span></a></p>
+<p><a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i> <span class="v-a-50">mamiduemalaga@gmail.com</span></a></p>
 
 <p><a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><i class="svg-icon facebook"></i></a>
 <a href="https://instagram.com/{{ site.footer-links.instagram }}"><i class="svg-icon instagram"></i></a>
-<a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a><span class="v-a-50"> <a href="https://instagram.com/{{ site.footer-links.instagram }}"> mamiduemadrid</a></span></p>
+<a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a><span class="v-a-50"> <a href="https://instagram.com/{{ site.footer-links.instagram }}"> mamiduemalaga</a></span></p>

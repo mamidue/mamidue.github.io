@@ -10,7 +10,7 @@ complete-name: Carmen Blanco Aguilera
 about-info: Enfermera, Asesora de lactancia, IBCLC y mamá de Paula. La maternidad cambió mi vida y la forma de ver mi profesión.
 
 # Short bio or description (displayed in the header)
-description: Enfermera e IBCLC en Madrid
+description: Enfermera e IBCLC en Málaga
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/avatar.jpg
@@ -23,15 +23,15 @@ logo: /images/mamidue_logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mamiduemadrid@gmail.com
-  facebook: mamiduemadrid
+  email: mamiduemalaga@gmail.com
+  facebook: mamiduemalaga
   flickr:
   github:
-  instagram: mamiduemadrid
+  instagram: mamiduemalaga
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: mamiduemadrid
+  twitter: mamiduemalaga
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -49,7 +49,7 @@ google_analytics:
 url: https://mamidue.github.io
 
 # Twitter config
-twitter_username: mamiduemadrid
+twitter_username: mamiduemalaga
 
 future: false
 
