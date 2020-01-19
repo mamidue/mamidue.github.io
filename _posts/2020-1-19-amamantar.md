@@ -2,7 +2,7 @@
 layout: post
 title: Amamantar. El verdadero significado de la lactancia materna
 category: Lactancia
-tags: [documental, amamantar, edulacta, lactancia]
+tags: [documental, amamantar, edulacta]
 ---
 
 Hace apenas una semana se estrenó el documental **Amamantar** realizado por [Edulacta](https://www.edulacta.com/). 
